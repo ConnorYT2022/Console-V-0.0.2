@@ -7,11 +7,3 @@ help - shows commands
 text - shows text
 contact and help - shows E-mail, YouTube, Github and Discord
 calc - calculator
-
-                                                                                                                                                ##########
-  ####            ###              #            #           #        #            ###            ######         #   ####     #   #
-#                   #        #           #          # #         #       # #        #        #        #             #      #   #                   #
-#                   #        #           #        #  #          #      #  #        #        #        ######        #   #                    #
-#                   #        #           #     #     #          #     #   #        #        #        ##                  #   #                    #
-#                   #        #           #  #        #          #   #     #        #        #        #   #                #  #####         #
-  ####            ###             ##          #           ##        #          ###           #      #              ###########
